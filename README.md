@@ -43,4 +43,4 @@ Once the development server is running, you can access the application at `http:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ManmohanSinghRaghav/FashionWhisper?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ManmohanSinghRaghav/FashionWhisper/blob/main/LICENSE) file for details.
