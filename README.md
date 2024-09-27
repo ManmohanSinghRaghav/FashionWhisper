@@ -23,8 +23,8 @@ To get started with Fashion Whisper, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/fashion-whisper.git
-    cd fashion-whisper
+    git clone https://github.com/ManmohanSinghRaghav/FashionWhisper.git
+    cd FashionWhisper
     ```
 
 2. **Install dependencies**:
@@ -40,15 +40,6 @@ To get started with Fashion Whisper, follow these steps:
 ## Usage
 
 Once the development server is running, you can access the application at `http://localhost:3000`. Explore the features, get personalized fashion recommendations, and stay updated with the latest trends.
-## Contributing
-
-We welcome contributions from the community! To contribute to Fashion Whisper, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature-name`).
-5. Open a pull request.
 
 ## License
 
