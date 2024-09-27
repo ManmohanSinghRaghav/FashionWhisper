@@ -1,4 +1,4 @@
-# Fashion Whisper
+# [Fashion Whisper](https://fashionwhisper.vercel.app/)
 
 Fashion Whisper is a modern web application designed to provide fashion enthusiasts with the latest trends, style tips, and personalized fashion recommendations. Built with Vite and React, it offers a fast and seamless user experience.
 
@@ -43,4 +43,4 @@ Once the development server is running, you can access the application at `http:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/ManmohanSinghRaghav/FashionWhisper?tab=MIT-1-ov-file) file for details.
